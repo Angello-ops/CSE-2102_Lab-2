@@ -19,7 +19,7 @@ Maven 3 or higher
 How to Compile and Run
 ==========================
 Steps to Compile:
-1) Clone the repository: "git clone https://github.com/Angello-ops/CSE-2102_Lab-2" then type "cd CSE-2102_Lab-2/cse2102"
+1)Clone the repository: "git clone https://github.com/Angello-ops/CSE-2102_Lab-2" then type "cd CSE-2102_Lab-2/cse2102"
 
 2)Use Maven to clean and compile the project:"mvn clean compile"
 
